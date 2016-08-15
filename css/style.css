@@ -14,7 +14,10 @@ nav .menu{
 }
 nav .menu {
 	
-	list-style-image:url("../img/images.png");
+	
 	background-image: url("../img/header_bg.png");
 	background-size: cover;
+}
+nav .menu li{
+	list-style-image:url("../img/images.png");
 }
